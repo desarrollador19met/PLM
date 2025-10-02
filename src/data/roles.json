@@ -1,0 +1,38 @@
+{
+  "usuarios": [
+    {
+      "usuario": "lady",
+      "password": "1234",
+      "area": "Compras"
+    },
+    {
+      "usuario": "cristiam",
+      "password": "1234",
+      "area": "Tecnología"
+    },
+    {
+      "usuario": "cesar",
+      "password": "1234",
+      "area": "Ingeniería"
+    }
+  ],
+  "areasTipos": {
+    "Compras": [
+      "MP"
+    ],
+    "Tecnología": [
+      "SET",
+      "PPT",
+      "PTT"
+    ],
+    "Ingeniería": [
+      "MP",
+      "SEM",
+      "SET",
+      "PPM",
+      "PPT",
+      "PTM",
+      "PTT"
+    ]
+  }
+}
